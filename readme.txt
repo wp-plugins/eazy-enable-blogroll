@@ -3,7 +3,7 @@ Contributors: playwithpixels
 Donate link:
 Tags: blogroll, links, enable, easy,
 Requires at least: 3.5.0
-Tested up to: 3.9.1
+Tested up to: 4.1
 Stable tag: 1.0.0
 
 Eazy Enable Blogroll brings back the one and only WordPress Blogroll Feature, with nearly one click!
